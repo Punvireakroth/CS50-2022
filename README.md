@@ -14,3 +14,11 @@ These material are take from CS50 2022
 - In order to solve this, we have some processes to help
   - Use printf function
   - Use debug50 ( Debugger )
+
+```c
+debug50 ./buggy.c ( name of the program )
+```
+
+    - What the debugger do is to walk through our program step by step
+
+- Use Rubber duck debugging ( Talking through with inanimate animal rubber duck )
