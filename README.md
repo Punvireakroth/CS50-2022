@@ -265,4 +265,12 @@ int main(int argc,string argv[])
 
 <img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/bigO.png" alt="running_time">
 
+- គេចំណាំហៅ Big O ថាជា Upper Bound នៃ running times មានន័យថាវាជា Maximum នៃ running times
+
+### Asymptotic Notation
+
+និមិត្តសញ្ញាអូមេហ្គាត្រូវបានប្រើប្រាស់ដើម្បីបង្ហាញពី lower bound នៃ running time របស់ algorithm ( How few steps my algorithm might take )
+
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/omega.png" alt="running_time">
+
 ## References
