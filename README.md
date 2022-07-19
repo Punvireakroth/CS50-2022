@@ -1,7 +1,5 @@
 # Computer Science Concept
 
-These material are take from CS50 2022
-
 ## មតិកា
 
 [Array](#week-2-array)
@@ -10,7 +8,7 @@ These material are take from CS50 2022
 
 [ឯកសារយោង](#references)
 
-## Week 2 Array
+## Array
 
 - C use compiler to convert source code to machine code
 - make is actually run a program call clang
@@ -244,5 +242,19 @@ int main(int argc,string argv[])
 <img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/array_of_int.png" alt="array-of-random-integer">
 
 រូបខាងលើសម្រាប់មនុស្សគឺយើងមានភាពងាយស្រួលក្នុងការប្រាប់និងដឹងថាលេខមួយនិងមាននៅក្នុង Array ឬទេហើយពួកយើងក៏មានភាពងាយស្រួលក្នុងការរៀបពួកវាតាមលំដាប់ពីធំទៅតូចឬក៏ពីតូចទៅធំបានផងដែរ ។ ផ្ទុយមកវិញកំព្យូទ័រខុសពីពួកយើងនៅពេលដែលកំព្យូទ័ររកថាលេខណាមួយមាននៅក្នុងArrayឬក៏អត់យើងអាចប្រៀបធៀបដំណើរការដែលវារកនោះទៅនិងមនុ្សសដើរទៅបើកប្រអប់ម្តងមួយៗហើយមើលថាមានអ្វីនៅក្នុងប្រអប់ដែលគេបើកនោះ ។ ចឹងមិនដូចមនុស្សយើងដែលមានភ្នែកស្ទែងមើលឃើញអ្វីៗពីលើអាកាសទេកំព្យូទ័រគឺត្រូវមាននូវ Methodology ដើម្បីទៅមើលថាមានអ្វីនៅទីនេះនិងមានអ្វីនៅទីនោះ ។
+
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/array_of_box.png" alt="array-of-box">
+
+ដូច្នេះយើងអាចប្រើប្រាស់ Programming Concept ដើម្បីដោះស្រាយវាបាន ។ គួររំលឹកផងដែរ Index ដំបូងបង្អស់របស់ Array គឺចាប់ពី​ 0 និងនៅខាងចុងបង្អស់នៃ index របស់ Array គឺតាងដោយតម្លៃ `n - 1` ណាមួយ ។
+
+### Searching
+
+- ការស្វែងរក Searchingគឺជាការរកអ្វីមួយទៅតាមអ្វីដែលគេចង់បានវា ត្រូវបានដាក់បញ្ចូលស្ទើរគ្រាប់កម្មវិធីបច្ចុប្បន្នរាប់ចាប់តាំងពី Note, Weather, E-Commerce ...
+- ដើម្បីវាយតម្លៃបានថា Algorithm ណាមួយថាល្អជាងមួយណាក្រៅពីភាពត្រឹមត្រូវគឺការ Design របស់ Algorithm នោះថាវាមាន Efficiency ទេវាត្រូវការ Memoryច្រើនឬទេ តើវា redundant ឬទេ ?
+
+### Big O Notation
+
+- ដើម្បីវាយតម្លៃទៅលើ Efficiency នៃ Algorithm មួយបានយើងត្រូវមើលទៅលើ `running times` របស់ Algorithm នោះថាវាដំណើរការបានលឿនប៉ុណ្ណា ?
+- Big O notation គឺជាការតំណាងពីភាពយឺតឬក៏លឿន `running times`
 
 ## References
