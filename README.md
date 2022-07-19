@@ -257,4 +257,12 @@ int main(int argc,string argv[])
 - ដើម្បីវាយតម្លៃទៅលើ Efficiency នៃ Algorithm មួយបានយើងត្រូវមើលទៅលើ `running times` របស់ Algorithm នោះថាវាដំណើរការបានលឿនប៉ុណ្ណា ?
 - Big O notation គឺជាការតំណាងពីភាពយឺតឬក៏លឿន `running times`
 
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/running_time.png" alt="running_time">
+
+### Commonly Running time
+
+- យើងនិងតែងតែឃើញជាប្រចាំនូវ `running time` ទាំងនេះ
+
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/bigO.png" alt="running_time">
+
 ## References
