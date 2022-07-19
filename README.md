@@ -2,7 +2,12 @@
 
 These material are take from CS50 2022
 
-## Week 2
+## មតិកា
+
+[Array](#week-2-array)
+[Algorithm-ភាសាខ្មែរ](#algorithm)
+
+## Week 2 Array
 
 - C use compiler to convert source code to machine code
 - make is actually run a program call clang
@@ -228,3 +233,5 @@ int main(int argc,string argv[])
 - **string argv[ ]** stand for argument vector it is gonna be array of all the word that the human have been type at the prompt
 - So what it does is allow human to type ( at argv ) and then tell the length ( at argc )
 - Now let's write a program let greeting hello ..... but not using get_string
+
+## Algorithm
