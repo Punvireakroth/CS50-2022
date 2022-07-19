@@ -272,5 +272,10 @@ int main(int argc,string argv[])
 និមិត្តសញ្ញាអូមេហ្គាត្រូវបានប្រើប្រាស់ដើម្បីបង្ហាញពី lower bound នៃ running time របស់ algorithm ( How few steps my algorithm might take )
 
 <img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/omega.png" alt="running_time">
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/omega_running_time.png" alt="running_time">
 
+ទន្ទឹមនិងគ្នានេះដែរនិមិត្តសញ្ញាបេតាត្រូវបានប្រើប្រាស់ដើម្បីបង្ហាញថា lower bound និង uppder bound នៃ running time របស់ algorithm មួយស្មើគ្នា
+
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/beta.png" alt="running_time">
+<img src="https://github.com/Punvireakroth/computer-science-concept/blob/main/images/beta_running_time.png" alt="running_time">
 ## References
